@@ -18,7 +18,7 @@
 
     Count    : 150
 
-## 🔍 2. `iris` — How many attributes does this dataset have?
+## 🔍 3. `iris` — How many attributes does this dataset have?
 
     Get-Content .\iris.arff | Select-String -Pattern '^@attribute ' | Measure-Object
 
@@ -26,7 +26,7 @@
 
     Count    : 5
 
-## 🔍 2. `iris` — What is the range of possible values of the attribute petallength?
+## 🔍 4. `iris` — What is the range of possible values of the attribute petallength?
 
 ### Output:
 
