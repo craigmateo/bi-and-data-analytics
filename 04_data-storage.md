@@ -204,3 +204,14 @@ Neither Defense in Depth nor Data Security Platform can make data completely imp
 - Two types:  
   - **In-Memory Data Grid (IMDG):** Key-value storage across nodes with immediate consistency.  
   - **In-Memory Database (IMDB):** Relational or non-relational DB leveraging RAM for low latency.
+
+# Summary
+
+- Data privacy and protection are foundational for conscientious data stewardship.  
+- The key strategic question in data storage is: **To shard, or to replicate?**  
+- The choice depends on several factors:  
+  - Budget constraints  
+  - Types of analytics questions  
+  - Required speed of data processing and analysis  
+- There is no one-size-fits-all answer; it **depends** on your specific situation.  
+- Decision-making should be timely — module five and the next analytics lifecycle stage, **Data Extraction**, are approaching quickly.
