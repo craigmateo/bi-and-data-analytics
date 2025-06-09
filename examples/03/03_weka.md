@@ -1,4 +1,4 @@
-# 🧠 Weka from the Command Line
+# 🧠 Weka from the Command Line: Exploring a Dataset
 
 ## 🟡 1. `weather.nominal` — Values of the attribute `temperature`
 
